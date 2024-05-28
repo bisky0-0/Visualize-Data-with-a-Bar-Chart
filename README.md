@@ -1,4 +1,4 @@
-// FreeCodeCamp Data Visualization Project: D3 and JSON
+# FreeCodeCamp Data Visualization Project: D3 and JSON
 
 This project is a part of the FreeCodeCamp Data Visualization Certification. It demonstrates the use of D3.js to create a bar chart that visualizes GDP data retrieved from a JSON file.
 
@@ -43,12 +43,3 @@ The goal of this project is to create an interactive bar chart using D3.js to di
    ```
 
 4. Open your browser and navigate to `http://localhost:8080` to view the project.
-
-## File Structure
-
-- `index.html`: The main HTML file that contains the container for the D3 visualization.
-- `src/`
-  - `index.js`: The entry point of the application.
-  - `data.js`: Contains the function to fetch the GDP data.
-  - `d3Component.js`: Contains the D3.js code to create the bar chart.
-  - `styles.css`: Contains the CSS styles for the project.
